@@ -1,0 +1,6 @@
+{
+  "name": "LEDGE STORE",
+  "description": "LEDGE STORE: Marketplace jual beli akun Free Fire paling aman dengan sistem verifikasi otomatis AI dan gerbang pembayaran instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
